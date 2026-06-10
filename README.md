@@ -155,9 +155,6 @@ solutions for real-world challenges.
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Hridya972/Hridya972/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
